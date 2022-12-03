@@ -1,0 +1,24 @@
+Transformation Pipeline and Model Successfully Loaded
+CatBoostRegressor:
+	Inference: 0.0276 seconds
+	R2 on test data = 0.9109
+Transformation Pipeline and Model Successfully Loaded
+RandomForestRegressor:
+	Inference: 0.1357 seconds
+	R2 on test data = 0.8815
+Transformation Pipeline and Model Successfully Loaded
+MLPRegressor:
+	Inference: 0.0303 seconds
+	R2 on test data = 0.7733
+Transformation Pipeline and Model Successfully Loaded
+LGBMRegressor:
+	Inference: 0.0490 seconds
+	R2 on test data = 0.9000
+Transformation Pipeline and Model Successfully Loaded
+ExtraTreesRegressor:
+	Inference: 0.0844 seconds
+	R2 on test data = 0.8938
+Transformation Pipeline and Model Successfully Loaded
+GradientBoostingRegressor:
+	Inference: 0.0228 seconds
+	R2 on test data = 0.9073
